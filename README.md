@@ -1,5 +1,7 @@
 # komei-portfolio
 転職活動用のポートフォリオサイトです。
+<img width="1134" height="619" alt="portfolio" src="https://github.com/user-attachments/assets/8bde5add-7f9e-44a3-9ff6-a76782948fe1" />
+公開URL：https://lucent-boba-baa1fe.netlify.app
 
 ## 目的
 インフラ運用・保守から開発エンジニアを目指すにあたり、自分の経歴と志望理由を一枚で伝えるために制作しました。
@@ -13,8 +15,8 @@
 - 画像の最適化（合計17MB → 1MB以下）
 
 ## 学んだこと・つまずいた点
-- 画像の表示サイズが重かったため圧縮して軽量化
-- デバイスによってレイアウトが異なるため最適化が必要
+- スマホで表示が崩れた→メディアクエリで調整
+- og:imageの置き忘れ
 
 ## 今後
 - Javaの学習に進み、成果物を追加予定
